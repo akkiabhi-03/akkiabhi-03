@@ -64,4 +64,4 @@ _Bachelor of Technology in Computer Science_
 ---
 
 ## 📫 Contact Me
-Feel free to reach out to me at [akkisujit7566@gmail.com](mailto:akkisujit7566@gmail.com) or via phone at +91 9198479761.
+Feel free to reach out to me at [akkisujit7566@gmail.com](mailto:akkisujit7566@gmail.com)  
